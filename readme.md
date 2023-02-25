@@ -4,10 +4,10 @@
 
 ## Notes
 
-nickmcintyre/ipycc package for turtle graphics in Jupyter
-[ipycc repo](https://github.com/nickmcintyre/ipycc)
+nickmcintyre/ipycc package for turtle graphics in Jupyter:    
+[https://github.com/nickmcintyre/ipycc](https://github.com/nickmcintyre/ipycc)
 
-Install stuff in Jupyter via pip:
+Install stuff in Jupyter via pip:  
 ```python
 %pip install -q ipycanvas
 %pip install -q ipycc
@@ -15,7 +15,7 @@ import ipycanvas
 import ipycc
 ```
 
-Example from nickmcintyre:
+Example from nickmcintyre:  
 ```python
 from ipycc import Turtle
 
@@ -42,7 +42,7 @@ jupyter lite build --contents content
 ```
 
 Serve locally
-```
+```console
 jupyter lite serve
 ```
 
